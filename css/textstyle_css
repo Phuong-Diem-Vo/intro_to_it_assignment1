@@ -1,0 +1,22 @@
+body {
+  front-family: arial;
+  background-image: url("../image/background_pink.jpg");
+  }
+
+h1 {
+  color: #FFFF00;
+}
+
+h2 {
+  color: #008080;
+}
+
+h4 {
+  color: #F5F5F5;
+}
+
+div {
+  border: 1px solid #665544;
+  overflow: auto;
+  width: 100%;
+}
